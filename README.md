@@ -6,4 +6,4 @@ Data was systematically populated across all tables to represent realistic trans
 Through these queries, insights such as customer purchasing patterns, order distribution, product pricing trends, and transaction details were examined. The project demonstrates how structured databases can efficiently manage interconnected data and support analytical operations.
 Overall, this project provided practical exposure to database design, query execution, and data analysis within an e-commerce context, highlighting the importance of SQL in handling real-time business data and supporting informed decision-making.
 
-MySQL WORD FILE LINK: https://docs.google.com/document/d/1_KH4L6t1aCmoDhUhGi1Ak6Fhogd1JMXD/edit?usp=sharing&ouid=111848180424536204210&rtpof=true&sd=true
+MySQL PDF FILE LINK: https://drive.google.com/file/d/1t77k_XnAQnK4VZSeqVyPky5lG4vhzicG/view?usp=sharing
